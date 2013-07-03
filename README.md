@@ -1,0 +1,2 @@
+wootheme-canvas-translation
+===========================
